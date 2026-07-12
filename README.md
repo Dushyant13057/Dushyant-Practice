@@ -1,2 +1,2 @@
 # Dushyant-Practice
-I am LEarning Git hub
+I am Learning Git hub
